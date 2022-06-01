@@ -49,6 +49,38 @@
 		36A4D54D2846E45000AAFCDE /* OrthographicCamera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A4D54B2846E45000AAFCDE /* OrthographicCamera.swift */; };
 		36A4D5502846E71A00AAFCDE /* Options.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A4D54F2846E71A00AAFCDE /* Options.swift */; };
 		36A4D5512846E71A00AAFCDE /* Options.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A4D54F2846E71A00AAFCDE /* Options.swift */; };
+		36A4D6A52846F8E400AAFCDE /* Ukrainian_Z_BTR.obj in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6952846F8E400AAFCDE /* Ukrainian_Z_BTR.obj */; };
+		36A4D6A62846F8E400AAFCDE /* Ukrainian_Z_BTR.obj in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6952846F8E400AAFCDE /* Ukrainian_Z_BTR.obj */; };
+		36A4D6A72846F8E400AAFCDE /* FloorAlpha.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6962846F8E400AAFCDE /* FloorAlpha.png */; };
+		36A4D6A82846F8E400AAFCDE /* FloorAlpha.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6962846F8E400AAFCDE /* FloorAlpha.png */; };
+		36A4D6A92846F8E400AAFCDE /* Eyes_Shadow.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6972846F8E400AAFCDE /* Eyes_Shadow.png */; };
+		36A4D6AA2846F8E400AAFCDE /* Eyes_Shadow.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6972846F8E400AAFCDE /* Eyes_Shadow.png */; };
+		36A4D6AB2846F8E400AAFCDE /* Dude.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6982846F8E400AAFCDE /* Dude.png */; };
+		36A4D6AC2846F8E400AAFCDE /* Dude.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6982846F8E400AAFCDE /* Dude.png */; };
+		36A4D6AD2846F8E400AAFCDE /* Floor.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6992846F8E400AAFCDE /* Floor.png */; };
+		36A4D6AE2846F8E400AAFCDE /* Floor.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6992846F8E400AAFCDE /* Floor.png */; };
+		36A4D6AF2846F8E400AAFCDE /* Ukrainian_Z_BTR.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D69A2846F8E400AAFCDE /* Ukrainian_Z_BTR.mtl */; };
+		36A4D6B02846F8E400AAFCDE /* Ukrainian_Z_BTR.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D69A2846F8E400AAFCDE /* Ukrainian_Z_BTR.mtl */; };
+		36A4D6B12846F8E400AAFCDE /* BTR.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D69B2846F8E400AAFCDE /* BTR.png */; };
+		36A4D6B22846F8E400AAFCDE /* BTR.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D69B2846F8E400AAFCDE /* BTR.png */; };
+		36A4D6B32846F8E400AAFCDE /* plane.obj in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D69D2846F8E400AAFCDE /* plane.obj */; };
+		36A4D6B42846F8E400AAFCDE /* plane.obj in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D69D2846F8E400AAFCDE /* plane.obj */; };
+		36A4D6B52846F8E400AAFCDE /* plane.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D69E2846F8E400AAFCDE /* plane.mtl */; };
+		36A4D6B62846F8E400AAFCDE /* plane.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D69E2846F8E400AAFCDE /* plane.mtl */; };
+		36A4D6B72846F8E400AAFCDE /* ground.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D69F2846F8E400AAFCDE /* ground.png */; };
+		36A4D6B82846F8E400AAFCDE /* ground.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D69F2846F8E400AAFCDE /* ground.png */; };
+		36A4D6B92846F8E400AAFCDE /* obamium.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6A12846F8E400AAFCDE /* obamium.mtl */; };
+		36A4D6BA2846F8E400AAFCDE /* obamium.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6A12846F8E400AAFCDE /* obamium.mtl */; };
+		36A4D6BB2846F8E400AAFCDE /* base.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6A22846F8E400AAFCDE /* base.png */; };
+		36A4D6BC2846F8E400AAFCDE /* base.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6A22846F8E400AAFCDE /* base.png */; };
+		36A4D6BD2846F8E400AAFCDE /* obamium.obj in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6A32846F8E400AAFCDE /* obamium.obj */; };
+		36A4D6BE2846F8E400AAFCDE /* obamium.obj in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6A32846F8E400AAFCDE /* obamium.obj */; };
+		36A4D6C32846F92300AAFCDE /* lowpoly-house-color.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6C02846F92300AAFCDE /* lowpoly-house-color.png */; };
+		36A4D6C42846F92300AAFCDE /* lowpoly-house-color.png in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6C02846F92300AAFCDE /* lowpoly-house-color.png */; };
+		36A4D6C52846F92300AAFCDE /* lowpoly-house.obj in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6C12846F92300AAFCDE /* lowpoly-house.obj */; };
+		36A4D6C62846F92300AAFCDE /* lowpoly-house.obj in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6C12846F92300AAFCDE /* lowpoly-house.obj */; };
+		36A4D6C72846F92300AAFCDE /* lowpoly-house.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6C22846F92300AAFCDE /* lowpoly-house.mtl */; };
+		36A4D6C82846F92300AAFCDE /* lowpoly-house.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 36A4D6C22846F92300AAFCDE /* lowpoly-house.mtl */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -77,6 +109,22 @@
 		36A4D5482846E3ED00AAFCDE /* ArcballCamera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArcballCamera.swift; sourceTree = "<group>"; };
 		36A4D54B2846E45000AAFCDE /* OrthographicCamera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrthographicCamera.swift; sourceTree = "<group>"; };
 		36A4D54F2846E71A00AAFCDE /* Options.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Options.swift; sourceTree = "<group>"; };
+		36A4D6952846F8E400AAFCDE /* Ukrainian_Z_BTR.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Ukrainian_Z_BTR.obj; sourceTree = "<group>"; };
+		36A4D6962846F8E400AAFCDE /* FloorAlpha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FloorAlpha.png; sourceTree = "<group>"; };
+		36A4D6972846F8E400AAFCDE /* Eyes_Shadow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Eyes_Shadow.png; sourceTree = "<group>"; };
+		36A4D6982846F8E400AAFCDE /* Dude.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Dude.png; sourceTree = "<group>"; };
+		36A4D6992846F8E400AAFCDE /* Floor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Floor.png; sourceTree = "<group>"; };
+		36A4D69A2846F8E400AAFCDE /* Ukrainian_Z_BTR.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Ukrainian_Z_BTR.mtl; sourceTree = "<group>"; };
+		36A4D69B2846F8E400AAFCDE /* BTR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BTR.png; sourceTree = "<group>"; };
+		36A4D69D2846F8E400AAFCDE /* plane.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = plane.obj; sourceTree = "<group>"; };
+		36A4D69E2846F8E400AAFCDE /* plane.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = plane.mtl; sourceTree = "<group>"; };
+		36A4D69F2846F8E400AAFCDE /* ground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ground.png; sourceTree = "<group>"; };
+		36A4D6A12846F8E400AAFCDE /* obamium.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = obamium.mtl; sourceTree = "<group>"; };
+		36A4D6A22846F8E400AAFCDE /* base.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = base.png; sourceTree = "<group>"; };
+		36A4D6A32846F8E400AAFCDE /* obamium.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = obamium.obj; sourceTree = "<group>"; };
+		36A4D6C02846F92300AAFCDE /* lowpoly-house-color.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lowpoly-house-color.png"; sourceTree = "<group>"; };
+		36A4D6C12846F92300AAFCDE /* lowpoly-house.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "lowpoly-house.obj"; sourceTree = "<group>"; };
+		36A4D6C22846F92300AAFCDE /* lowpoly-house.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "lowpoly-house.mtl"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -244,8 +292,65 @@
 		36A4D5562846ECBA00AAFCDE /* Assets */ = {
 			isa = PBXGroup;
 			children = (
+				36A4D6932846F8E400AAFCDE /* Models */,
 			);
 			path = Assets;
+			sourceTree = "<group>";
+		};
+		36A4D6932846F8E400AAFCDE /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				36A4D6BF2846F92300AAFCDE /* LowPolyHouse */,
+				36A4D6942846F8E400AAFCDE /* Ukraine */,
+				36A4D69C2846F8E400AAFCDE /* Ground */,
+				36A4D6A02846F8E400AAFCDE /* Obamium */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		36A4D6942846F8E400AAFCDE /* Ukraine */ = {
+			isa = PBXGroup;
+			children = (
+				36A4D6952846F8E400AAFCDE /* Ukrainian_Z_BTR.obj */,
+				36A4D6962846F8E400AAFCDE /* FloorAlpha.png */,
+				36A4D6972846F8E400AAFCDE /* Eyes_Shadow.png */,
+				36A4D6982846F8E400AAFCDE /* Dude.png */,
+				36A4D6992846F8E400AAFCDE /* Floor.png */,
+				36A4D69A2846F8E400AAFCDE /* Ukrainian_Z_BTR.mtl */,
+				36A4D69B2846F8E400AAFCDE /* BTR.png */,
+			);
+			path = Ukraine;
+			sourceTree = "<group>";
+		};
+		36A4D69C2846F8E400AAFCDE /* Ground */ = {
+			isa = PBXGroup;
+			children = (
+				36A4D69D2846F8E400AAFCDE /* plane.obj */,
+				36A4D69E2846F8E400AAFCDE /* plane.mtl */,
+				36A4D69F2846F8E400AAFCDE /* ground.png */,
+			);
+			path = Ground;
+			sourceTree = "<group>";
+		};
+		36A4D6A02846F8E400AAFCDE /* Obamium */ = {
+			isa = PBXGroup;
+			children = (
+				36A4D6A12846F8E400AAFCDE /* obamium.mtl */,
+				36A4D6A22846F8E400AAFCDE /* base.png */,
+				36A4D6A32846F8E400AAFCDE /* obamium.obj */,
+			);
+			path = Obamium;
+			sourceTree = "<group>";
+		};
+		36A4D6BF2846F92300AAFCDE /* LowPolyHouse */ = {
+			isa = PBXGroup;
+			children = (
+				36A4D6C02846F92300AAFCDE /* lowpoly-house-color.png */,
+				36A4D6C12846F92300AAFCDE /* lowpoly-house.obj */,
+				36A4D6C22846F92300AAFCDE /* lowpoly-house.mtl */,
+			);
+			name = LowPolyHouse;
+			path = "../../../../met-materials-editions-3.0/08-textures/projects/final/Textures/Shared/Models/LowPolyHouse";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -327,6 +432,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36A4D6BD2846F8E400AAFCDE /* obamium.obj in Resources */,
+				36A4D6C32846F92300AAFCDE /* lowpoly-house-color.png in Resources */,
+				36A4D6AD2846F8E400AAFCDE /* Floor.png in Resources */,
+				36A4D6C72846F92300AAFCDE /* lowpoly-house.mtl in Resources */,
+				36A4D6A92846F8E400AAFCDE /* Eyes_Shadow.png in Resources */,
+				36A4D6BB2846F8E400AAFCDE /* base.png in Resources */,
+				36A4D6B32846F8E400AAFCDE /* plane.obj in Resources */,
+				36A4D6AF2846F8E400AAFCDE /* Ukrainian_Z_BTR.mtl in Resources */,
+				36A4D6C52846F92300AAFCDE /* lowpoly-house.obj in Resources */,
+				36A4D6B72846F8E400AAFCDE /* ground.png in Resources */,
+				36A4D6AB2846F8E400AAFCDE /* Dude.png in Resources */,
+				36A4D6B52846F8E400AAFCDE /* plane.mtl in Resources */,
+				36A4D6A52846F8E400AAFCDE /* Ukrainian_Z_BTR.obj in Resources */,
+				36A4D6B12846F8E400AAFCDE /* BTR.png in Resources */,
+				36A4D6B92846F8E400AAFCDE /* obamium.mtl in Resources */,
+				36A4D6A72846F8E400AAFCDE /* FloorAlpha.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,6 +455,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36A4D6BE2846F8E400AAFCDE /* obamium.obj in Resources */,
+				36A4D6C42846F92300AAFCDE /* lowpoly-house-color.png in Resources */,
+				36A4D6AE2846F8E400AAFCDE /* Floor.png in Resources */,
+				36A4D6C82846F92300AAFCDE /* lowpoly-house.mtl in Resources */,
+				36A4D6AA2846F8E400AAFCDE /* Eyes_Shadow.png in Resources */,
+				36A4D6BC2846F8E400AAFCDE /* base.png in Resources */,
+				36A4D6B42846F8E400AAFCDE /* plane.obj in Resources */,
+				36A4D6B02846F8E400AAFCDE /* Ukrainian_Z_BTR.mtl in Resources */,
+				36A4D6C62846F92300AAFCDE /* lowpoly-house.obj in Resources */,
+				36A4D6B82846F8E400AAFCDE /* ground.png in Resources */,
+				36A4D6AC2846F8E400AAFCDE /* Dude.png in Resources */,
+				36A4D6B62846F8E400AAFCDE /* plane.mtl in Resources */,
+				36A4D6A62846F8E400AAFCDE /* Ukrainian_Z_BTR.obj in Resources */,
+				36A4D6B22846F8E400AAFCDE /* BTR.png in Resources */,
+				36A4D6BA2846F8E400AAFCDE /* obamium.mtl in Resources */,
+				36A4D6A82846F8E400AAFCDE /* FloorAlpha.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
