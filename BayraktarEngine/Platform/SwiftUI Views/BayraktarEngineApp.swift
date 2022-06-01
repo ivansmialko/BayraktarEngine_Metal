@@ -12,6 +12,7 @@ struct BayraktarEngineApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .navigationTitle("Bayraktar 3D Demo")
         }
     }
 }
